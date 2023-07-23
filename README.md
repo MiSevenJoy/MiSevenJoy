@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiSevenJoy
 - 👀 I’m interested in Reinforcement Learning
-- 📫 How to reach me 180320413@stu.hit.edu.cn
+- 📫 How to reach me at 22042251r@connect.polyu.hk
 
 <!---
 MiSevenJoy/MiSevenJoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
